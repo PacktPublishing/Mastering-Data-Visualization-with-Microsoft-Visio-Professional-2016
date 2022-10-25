@@ -11,3 +11,7 @@ You can also refer to the following books:
 * [Data Visualization: a successful design process](https://www.packtpub.com/big-data-and-business-intelligence/data-visualization-successful-design-process?utm_source=github&utm_medium=related&utm_campaign=9781849693462)
 * [Learning d3.js Data Visualization - Second Edition](https://www.packtpub.com/web-development/learning-d3js-data-visualization-second-edition?utm_source=github&utm_medium=related&utm_campaign=9781785889042)
 * [Learning Responsive Data Visualization](https://www.packtpub.com/web-development/learning-responsive-data-visualization?utm_source=github&utm_medium=related&utm_campaign=9781785883781)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785882661">https://packt.link/free-ebook/9781785882661 </a> </p>
